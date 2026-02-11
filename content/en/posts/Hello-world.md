@@ -3,14 +3,11 @@ date: '2026-02-11T20:23:05+01:00'
 draft: false
 title: 'Hello World'
 ---
-
-# Hello World
-
 It would be wise for me to introduce myself to those reading this blog before discussing anything else. But first, I want to clarify that this text was thought out and written in French before being translated into English. *Why English?* Not out of any dislike for French, I appreciate the language deeply. It is simply a matter of accessibility. English is the universal language, and this blog aims to convey information to as many people as possible. Or, at the very least, to transmit ideas that I believe are worth preserving and sharing.
 
 I am not Aaron Swartz. I do not expect to have an audience. This blog will probably never be read by anyone other than myself. The era of blogging is over. But watching the documentary *The Internet’s Own Boy* motivated me to write this. Because I sincerely believe in Aaron's ideas.
 
-> "Information is Power."
+> Information is Power.
 
 I introduce myself as **Raika**. I think a pseudonym is sufficient; after all, it is not my civil identity that I wish to highlight here. It is simply my thoughts regarding what is happening in my life, about the system in which I evolve. I live in France, near Paris. I am, therefore, in direct contact with *the West*. I specify this because I am not originally from here.
 

@@ -8,7 +8,18 @@ defaultContentLanguage = 'en'
     languageName = 'English'
     contentDir = 'content/en'
     weight = 1
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        name = "Français"
+        url = "/fr/"
+        weight = 10
+
   [languages.fr]
     languageName = 'Français'
     contentDir = 'content/fr'
     weight = 2
+    [languages.fr.menu]
+      [[languages.fr.menu.main]]
+        name = "English"
+        url = "/"
+        weight = 10

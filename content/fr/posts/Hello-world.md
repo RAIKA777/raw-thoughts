@@ -3,9 +3,6 @@ date: '2026-02-11T20:23:05+01:00'
 draft: false
 title: 'Hello World'
 ---
-
-# Hello World
- 
 Il serait judicieux pour moi de me présenter à vous qui lisez ce blog avant de parler d'autre chose. Mais avant ça, je tiens à préciser que ce texte a été pensé et écrit en français avant d'être traduit en anglais. *Pourquoi l'anglais ?* Pas par haine du français, j'apprécie beaucoup la langue. C'est simplement par soucis de lisibilité. L'anglais est la langue universelle, et ce blog a pour but de véhiculer des informations destinés à un maximum de personnes possibles. Ou du moins à transmettre les idées que je pense dignes d'être préservées et partagées. 
 
 Je ne suis pas Aaron Swartz. Je ne m'attends pas à avoir d'audience. Ce blog ne sera probablement jamais lu par quelqu'un d'autre que moi. L'ère des blogs est révolu. Mais voir le documentaire *The Internet's Own Boy* m'a motivé à l'écrire. Parce que je crois sincèrement en les idées d'Aaron. 
