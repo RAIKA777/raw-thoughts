@@ -1,4 +1,7 @@
-defaultContentLanguage = 'en' 
+baseURL = 'https://raika777.github.io/raw-thoughts/'
+theme = 'paper'
+title = 'Raw Thoughts'
+defaultContentLanguage = 'en'
 
 [languages]
   [languages.en]
